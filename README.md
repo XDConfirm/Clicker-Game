@@ -1,4 +1,4 @@
-### i'm remaking the entire game again. so development might take a bit longer now. but ive decided that i could make the game better if i just do it from scratch again. also because i couldnt fix the animation bug :)
+### i havent touched this project in a very long time, and any time i try making an update, i end up giving up because im not the best when it comes to css & overall styling with ui. this might be updated in the future but since im still a kid, i have no guarantees that ill take up web making as a career as im just becoming a freshman in highschool. this may simply be a hobbie, although not much of a consistent one.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
